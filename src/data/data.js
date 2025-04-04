@@ -30,12 +30,12 @@ export const events = [
   ];
   
   export const galleryImages = [
-    { src: "https://i.postimg.cc/XpMTW3XL/IMG-4811.jpg" },
-    { src: "https://i.postimg.cc/wRk5nh7S/IMG-4901.jpg" },
-    { src: "https://i.postimg.cc/pp23rCY5/IMG-4883.jpg" },
-    { src: "https://i.postimg.cc/K47dmwLy/IMG-4884.jpg" },
-    { src: "https://i.postimg.cc/tZWNN0yR/IMG-4930.jpg" },
-    { src: "https://i.postimg.cc/XZFsQBk0/20240228080854-IMG-5403.jpg" }
+    { src: "/assets/pic1.jpg" },
+    { src: "/assets/pic2.jpg" },
+    { src: "/assets/pic3.jpg" },
+    { src: "/assets/pic4.jpg" },
+    { src: "/assets/pic5.jpg" },
+    { src: "/assets/pic6.jpg" }
   ];
   
   export const sponsors = [
