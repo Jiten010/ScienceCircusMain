@@ -31,12 +31,12 @@ export const events = [
   ];
   
   export const galleryImages = [
-    { image: "/assets/pic1.jpg" },
-    { image: "/assets/pic2.jpg" },
-    { image: "/assets/pic3.jpg" },
-    { image: "/assets/pic4.jpg" },
-    { image: "/assets/pic5.jpg" },
-    { image: "/assets/pic6.jpg" }
+    { image: "/assets/pic1.JPG" },
+    { image: "/assets/pic2.JPG" },
+    { image: "/assets/pic3.JPG" },
+    { image: "/assets/pic4.JPG" },
+    { image: "/assets/pic5.JPG" },
+    { image: "/assets/pic6.JPG" }
   ];
   
   export const sponsors = [
